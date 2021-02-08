@@ -1,5 +1,5 @@
 {
-    "name": "starlocke/cakephp4-bootstrap-helpers",
+    "name": "holt59/cakephp4-bootstrap-helpers",
     "description": "Bootstrap Helpers for CakePHP 4.0",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "bootstrap"],
